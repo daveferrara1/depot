@@ -4,10 +4,10 @@ class ProductsControllerTest < ActionController::TestCase
   setup do
     @product = products(:one)
     @update = {
-      title:             'Test',
-      description:  'Test',
-      image_url:    't.jpg',
-      price:            1.01
+      title: 'Tttttestrrr',
+      description: 'Ttttttest is fun',
+      image_url: 'tresssst.jpg',
+      price: 10.01
     }
   end
 
